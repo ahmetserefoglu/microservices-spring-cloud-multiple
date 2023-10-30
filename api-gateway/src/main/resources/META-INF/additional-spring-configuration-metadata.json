@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "srping.sleuth.sampler.probability",
+      "type": "java.lang.String",
+      "description": "Description for srping.sleuth.sampler.probability."
+  }
+] }
